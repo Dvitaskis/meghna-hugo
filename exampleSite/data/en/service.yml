@@ -7,10 +7,10 @@ service:
     icon: ti-world
     content: Naujai įrengtos ir modernios pokylių salės suteiks Jūsų šventei žavesio
       bei leis puikiai praleisti laiką Jūsų svečiams.
-  - name: Responsive Design
+  - name: Konferencinių patalpų nuoma
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Moderni įranga bei patalpos leis surengti Jūsų konferencijas ar kitus
+      oficialius priėmimus. '
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
