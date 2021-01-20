@@ -19,11 +19,3 @@ service:
     icon: ti-palette
     content: Mūsų patikimas partnerių sąrašas leis Jums atsipalaiduoti ir tiesiog
       mėgautis Švente. Visais rūpeščiais nuo muzikos iki įmažinimo pasirūpinsime mes!
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
