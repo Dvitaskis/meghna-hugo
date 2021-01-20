@@ -11,10 +11,10 @@ service:
     icon: ti-layout
     content: 'Moderni įranga bei patalpos leis surengti Jūsų konferencijas ar kitus
       oficialius priėmimus. '
-  - name: Media &amp; Advertisement
+  - name: Maitinimo paslaugos
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Neturite maitinio paslaugų? Nebėda! Mes viskuo pasirūpinsime ir galėsite
+      pasirinkti iš kelių maisto tiekėjų paslaugų. '
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
