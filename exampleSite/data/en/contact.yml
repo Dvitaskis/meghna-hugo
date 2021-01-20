@@ -16,8 +16,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: Your Name
-    email: Your Email
-    subject: Subject
-    message: Message
-    submit: Submit
+    name: Jūsų Vardas
+    email: El. Pašto adresas
+    subject: Tema
+    message: Palikite savo žinutę čia!
+    submit: Siųsti
