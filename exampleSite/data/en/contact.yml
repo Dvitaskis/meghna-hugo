@@ -5,14 +5,14 @@ contact:
   subtitle: ''
   content: Kreipkitės kontaktais apačioje ir pateiksime Jums kainą pagal Jūsų poreikius!
   contact_list:
+  - icon: ''
+    info: ''
   - icon: ti-location-pin
     info: Khaja Road, Bayzid, Chittagong, Bangladesh
   - icon: ti-mobile
     info: 'Phone: +370 684 66 804'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: info@simukai.lt'
   contact_form:
     enable: true
     form_action: "#"
