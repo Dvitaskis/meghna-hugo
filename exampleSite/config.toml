@@ -5,12 +5,12 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "Vila Simukai"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "en-us"
+languageCode = "en-en"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
@@ -54,11 +54,11 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/lithuanian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "lt-lt"
+languageName = "LT"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
