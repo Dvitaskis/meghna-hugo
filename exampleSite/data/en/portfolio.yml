@@ -24,14 +24,13 @@ portfolio:
     - design
     content: ''
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-12-53-52.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-52.jpeg"
     categories:
     - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: ''
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
