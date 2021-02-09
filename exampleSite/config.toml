@@ -81,16 +81,16 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Znakt Creative solution "
+description = ""
 google_analytics_id = ""
-logo = "/images/znakt_logotipas_final_jpg-01.jpg"
+logo = "/images/znakt_logotipas_final_be-fono-02-01.png"
 post_share = true
 [params.cookies]
 enable = false
 expire_days = 2
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -123,20 +123,11 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-instagram"
+link = ""
+[[params.social]]
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
 link = "#"
