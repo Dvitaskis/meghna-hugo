@@ -11,13 +11,6 @@ portfolio:
     content: ''
     link: ''
   - name: ''
-    image: "/images/0r7k0260.JPG"
-    image_webp: "/images/0r7k0260.JPG"
-    categories:
-    - Vidus
-    content: ''
-    link: ''
-  - name: ''
     image: "/images/whatsapp-image-2021-01-15-at-12-53-51-1.jpeg"
     image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-51-1.jpeg"
     categories:
@@ -71,5 +64,12 @@ portfolio:
     image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-52.jpeg"
     categories:
     - vidus
+    content: ''
+    link: ''
+  - name: ''
+    image: "/images/0r7k0260.JPG"
+    image_webp: "/images/0r7k0260.JPG"
+    categories:
+    - Vidus
     content: ''
     link: ''
