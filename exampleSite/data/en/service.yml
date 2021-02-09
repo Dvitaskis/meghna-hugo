@@ -15,7 +15,3 @@ service:
     icon: ti-blackboard
     content: 'Neturite maitinio paslaugų? Nebėda! Mes viskuo pasirūpinsime ir galėsite
       pasirinkti iš kelių maisto tiekėjų paslaugų. '
-  - name: Renginių organizavimas
-    icon: ti-palette
-    content: Mūsų patikimas partnerių sąrašas leis Jums atsipalaiduoti ir tiesiog
-      mėgautis Švente. Visais rūpeščiais nuo muzikos iki įmažinimo pasirūpinsime mes!
