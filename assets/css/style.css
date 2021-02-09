@@ -16,6 +16,15 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
   src: url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
+
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/cairo/v9/SLXLc1nY6Hkvalrub46F59ZMaA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
 	
 html {
   background-color: #353b43;
@@ -41,7 +50,7 @@ h6 {
 }
 
 p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: 'Cairo', sans-serif;
 }
 
 [scroll-behavior=smooth] {
