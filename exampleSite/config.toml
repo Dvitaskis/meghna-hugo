@@ -11,7 +11,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-en"
-languageName = "En"
+languageName = "Lt"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Apie mus"
