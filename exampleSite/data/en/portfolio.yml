@@ -38,13 +38,13 @@ portfolio:
     - design
     content: ''
     link: ''
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-12-53-49.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-49.jpeg"
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: ''
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
