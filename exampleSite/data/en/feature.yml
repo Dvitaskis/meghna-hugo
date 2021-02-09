@@ -4,8 +4,10 @@ feature:
   image: "/images/pexels-mat-brown-1395967.jpg"
   image_webp: "/images/pexels-mat-brown-1395967.jpg"
   title: Vieta Jūsų vestuvėms ir renginiams!
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: Patogiai pasiekiamoje vietoje Alytuje, Jūs galite rasti naujai įrengtas
+    pokylių sales, kurioje atsiras vietos visiems Jūsų renginiams ir pokyliams. Nežinote
+    nuo ko pradėti? Paskambinkite ir mes padėsim suplanuoti šventę pagal Jūsų poreikius,
+    o Jums beliks tik mėgautis!
   feature_item:
   - title: SEO Optimized
     icon: ti-world
