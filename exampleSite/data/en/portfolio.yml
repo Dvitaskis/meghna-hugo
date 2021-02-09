@@ -59,14 +59,13 @@ portfolio:
     - photography
     content: ''
     link: ''
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-11-52-03.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-03.jpeg"
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    - Vidus
+    content: ''
+    link: ''
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
