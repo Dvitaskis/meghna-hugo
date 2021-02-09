@@ -14,7 +14,7 @@ languageCode = "en-en"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Apie "
+name = "Apie mus"
 pre = "#"
 url = "about"
 weight = 1
