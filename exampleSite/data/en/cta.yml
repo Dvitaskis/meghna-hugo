@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: "/images/party.jpg"
   bg_image_webp: "/images/party.jpg"
-  title: Atrodo gražiai? Nelauk ir susisiek!
+  title: Skamba patraukliai? Nelauk ir susisiek!
   content: ''
   button:
     enable: true
