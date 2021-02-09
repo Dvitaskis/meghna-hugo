@@ -8,5 +8,5 @@ banner:
   content: Jūsų šventė - rūpestis mūsų!
   button:
     enable: true
-    label: Explore Us
+    label: Paslaugos
     link: "#services"
