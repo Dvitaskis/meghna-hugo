@@ -4,13 +4,6 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: ''
-    image: "/images/whatsapp-image-2021-01-15-at-11-52-01.jpeg"
-    image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-01.jpeg"
-    categories:
-    - Vidus
-    content: ''
-    link: ''
-  - name: ''
     image: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
     image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
     categories:
@@ -71,6 +64,13 @@ portfolio:
     image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-52.jpeg"
     categories:
     - vidus
+    content: ''
+    link: ''
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-11-52-01.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-01.jpeg"
+    categories:
+    - Vidus
     content: ''
     link: ''
   - name: ''
