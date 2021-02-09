@@ -45,13 +45,13 @@ portfolio:
     - design
     content: ''
     link: ''
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-11-52-04.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-04.jpeg"
     categories:
     - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: ''
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
