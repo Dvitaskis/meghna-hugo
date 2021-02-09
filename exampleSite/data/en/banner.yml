@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
   bg_image: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
-  icon: "/images/znakt_logotipas_final_jpg-01.jpg"
+  icon: ''
   title: Jūsų švenčių namai
   content: Jūsų šventė - rūpestis mūsų!
   button:
