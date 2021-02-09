@@ -1,5 +1,5 @@
 baseURL = "https://simukai.netlify.app"
-disableLanguages = []
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -14,12 +14,12 @@ languageCode = "en-en"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "Apie "
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Paslaugos"
 pre = "#"
 url = "services"
 weight = 2
