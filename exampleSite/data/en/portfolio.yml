@@ -66,11 +66,9 @@ portfolio:
     - Vidus
     content: ''
     link: ''
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - design
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-11-52-52.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-52.jpeg"
+    categories: []
+    content: ''
+    link: ''
