@@ -29,7 +29,7 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Susisiekite!"
 pre = "#"
 url = "contact"
 weight = 7
