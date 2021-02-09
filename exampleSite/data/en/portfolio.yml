@@ -69,6 +69,7 @@ portfolio:
   - name: ''
     image: "/images/whatsapp-image-2021-01-15-at-11-52-52.jpeg"
     image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-52.jpeg"
-    categories: []
+    categories:
+    - vidus
     content: ''
     link: ''
