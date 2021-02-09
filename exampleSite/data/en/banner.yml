@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
+  bg_image: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
   icon: ''
   title: Jūsų švenčių namai
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
