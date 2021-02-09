@@ -52,13 +52,13 @@ portfolio:
     - photography
     content: ''
     link: ''
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
+  - name: ''
+    image: "/images/whatsapp-image-2021-01-15-at-11-52-04-3.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-11-52-04-3.jpeg"
     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    - photography
+    content: ''
+    link: ''
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
