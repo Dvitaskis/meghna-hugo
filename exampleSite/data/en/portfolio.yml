@@ -4,6 +4,13 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: ''
+    image: images/
+    image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
+    categories:
+    - design
+    content: ''
+    link: ''
+  - name: ''
     image: "/images/0r7k0260.JPG"
     image_webp: "/images/0r7k0260.JPG"
     categories:
@@ -11,18 +18,11 @@ portfolio:
     content: ''
     link: ''
   - name: ''
-    image: images/
-    image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
+    image: "/images/whatsapp-image-2021-01-15-at-12-53-51-1.jpeg"
+    image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-51-1.jpeg"
     categories:
     - design
     content: ''
-    link: ''
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
