@@ -34,11 +34,11 @@ pre = "#"
 url = "contact"
 weight = 7
 [Languages.fr]
-contentDir = "content/lithuanian"
+contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "lt-lt"
-languageName = "LT"
+languageCode = "en-en"
+languageName = "En"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
