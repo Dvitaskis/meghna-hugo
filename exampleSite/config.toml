@@ -29,30 +29,10 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/lithuanian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
