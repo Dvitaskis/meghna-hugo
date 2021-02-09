@@ -4,6 +4,12 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: ''
+    image: "/images/0r7k0260.JPG"
+    image_webp: "/images/0r7k0260.JPG"
+    categories: ''
+    content: ''
+    link: ''
+  - name: ''
     image: images/
     image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
     categories:
