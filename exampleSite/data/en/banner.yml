@@ -8,5 +8,5 @@ banner:
   content: Jūsų šventė - rūpestis mūsų!
   button:
     enable: true
-    label: Paslaugos
-    link: "#aboutus"
+    label: Apie Mus!
+    link: "#Feature"
