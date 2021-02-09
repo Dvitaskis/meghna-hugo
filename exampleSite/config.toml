@@ -24,7 +24,7 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Nuotraukos"
 pre = "#"
 url = "portfolio"
 weight = 3
