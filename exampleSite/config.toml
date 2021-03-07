@@ -84,7 +84,7 @@ weight = 8
 author = "Znakt Creative solution "
 description = ""
 google_analytics_id = ""
-logo = "/images/color-logo-with-background.svg"
+logo = "/images/color-logo-no-background.png"
 post_share = true
 [params.cookies]
 enable = false
