@@ -4,6 +4,13 @@ portfolio:
   title: Galerija
   portfolio_item:
   - name: ''
+    image: "/images/263943331_1153996141801447_292712067607946529_n.jpg"
+    image_webp: "/images/263943331_1153996141801447_292712067607946529_n.jpg"
+    categories:
+    - Vidus
+    content: ''
+    link: ''
+  - name: ''
     image: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
     image_webp: "/images/whatsapp-image-2021-01-15-at-12-53-57.jpeg"
     categories:
