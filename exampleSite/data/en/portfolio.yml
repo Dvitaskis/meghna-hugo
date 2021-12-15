@@ -11,6 +11,13 @@ portfolio:
     content: ''
     link: ''
   - name: Vidus
+    image: "/images/265570027_1238741649985295_812739476096778616_n.jpg"
+    image_webp: "/images/265570027_1238741649985295_812739476096778616_n.jpg"
+    categories:
+    - Vidus
+    content: ''
+    link: ''
+  - name: Vidus
     image: "/images/263943331_1153996141801447_292712067607946529_n.jpg"
     image_webp: "/images/263943331_1153996141801447_292712067607946529_n.jpg"
     categories:
