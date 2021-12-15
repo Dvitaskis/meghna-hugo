@@ -87,10 +87,9 @@ portfolio:
     - vidus
     content: ''
     link: ''
-  - name: ''
+  - name: Vidus
     image: "/images/0r7k0260.JPG"
     image_webp: "/images/0r7k0260.JPG"
-    categories:
-    - Vidus
+    categories: []
     content: ''
     link: ''
