@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Dernier message
 - id: readMore
@@ -12,10 +13,10 @@
   translation: Articles de l'auteur
 - id: all
   translation: All
-- id: about
-  translation: À propos
 - id: services
   translation: Services
+- id: about
+  translation: À propos
 - id: portfolio
   translation: Portfolio
 - id: team
