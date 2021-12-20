@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Paslaugos
   service_item:
   - name: Pokylių salės nuoma
